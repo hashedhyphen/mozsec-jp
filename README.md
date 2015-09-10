@@ -1,7 +1,7 @@
-Mozilla Security Blog 日本語版 原稿レポジトリ
+Mozilla Security Blog 日本語版
 ======================================
 
-[Mozilla Security Blog 日本語版](http://mozsec-jp.hatenablog.jp) の原稿（Markdown）の置き場です。
+[Mozilla Security Blog 日本語版](http://mozsec-jp.hatenablog.jp) の原稿（Markdown）置き場です。
 
 /articles 以下に原稿があります。原稿のファイル名は英語版記事の投稿日に従っています（例えば、元記事の Permalink が https://blog.mozilla.org/security/2015/09/04/improving-security-for-bugzilla/ である場合、翻訳版の原稿は 2015-09-04.md になります）。
 
